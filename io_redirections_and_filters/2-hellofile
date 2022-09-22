@@ -1,2 +1,2 @@
-#!/bin/bashc
+#!/bin/bash
 cat /etc/passwd
